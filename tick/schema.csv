@@ -1,0 +1,11 @@
+table,column,types,attribute
+quote,time,p,s
+quote,sym,s,g
+quote,bid,f,
+quote,ask,f,
+quote,bidSize,i,
+quote,askSize,i,
+trade,time,p,s
+trade,sym,s,g
+trade,price,f,
+trade,size,i,
